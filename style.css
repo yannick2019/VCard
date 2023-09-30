@@ -58,7 +58,7 @@ main {
     color: #e74c3c;
 }
 
-.info .name-and-stack img {
+.info .name-and-stack .red-tag {
     display: block;
 }
 
@@ -80,16 +80,18 @@ main {
 }
 
 
-.profession img {
+.profession .white-tag {
     padding-bottom: 2.6rem;
+    font-size: 2rem;
 }
 
 .profession h1 {
     padding-bottom: 1.2rem;
 }
 
-.info .name-and-stack img {
+.info .name-and-stack .red-tag {
     padding-bottom: 0.4rem;
+    font-size: 2rem;
 }
 
 .info .name-and-stack h2 {
@@ -240,7 +242,7 @@ main {
         margin-right: 8rem;
         margin-bottom: 2rem;
     }
-    .info .name-and-stack img {
+    .info .name-and-stack .red-tag {
         margin-bottom: 2rem;
     }
 
@@ -250,7 +252,7 @@ main {
         justify-content:center;
         align-items: center;
     }
-    .profession img {
+    .profession .white-tag {
         margin-right: 1rem;
         margin-top: 1.8rem;
     }
@@ -310,7 +312,7 @@ main {
         margin-right: 16rem;
         margin-bottom: 2rem;
     }
-    .info .name-and-stack img {
+    .info .name-and-stack .red-tag {
         margin-bottom: 2rem;
     }
 
@@ -320,7 +322,7 @@ main {
         justify-content:center;
         align-items: center;
     }
-    .profession img {
+    .profession .white-tag {
         margin-right: 1rem;
         margin-top: 1.8rem;
     }
