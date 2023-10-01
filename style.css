@@ -2,6 +2,9 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    background-image: url(images/background-image-resized.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 a {
@@ -290,6 +293,11 @@ main {
     .info {
         width: 32rem;
         background: #fff;
+        cursor: pointer;
+    }
+
+    .info:hover {
+        box-shadow: 0 0 16px rgba(18, 18, 18, 0.8);
     }
 
     .contact {
@@ -299,6 +307,11 @@ main {
     .profession {
         width: 32rem;
         font-size: 1rem;
+        cursor: pointer;
+    }
+
+    .profession:hover {
+        box-shadow: 0 0 16px rgba(18, 18, 18, 0.8);
     }
 
     .info .name-and-stack h2 {
