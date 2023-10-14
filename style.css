@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: #dfe6e9;
 }
 
 a {
@@ -298,10 +299,6 @@ main {
         cursor: pointer;
     }
 
-    .info:hover {
-        box-shadow: 0 0 16px rgba(18, 18, 18, 0.8);
-    }
-
     .contact {
         width: 32rem;
     }
@@ -310,10 +307,6 @@ main {
         width: 32rem;
         font-size: 1rem;
         cursor: pointer;
-    }
-
-    .profession:hover {
-        box-shadow: 0 0 16px rgba(18, 18, 18, 0.8);
     }
 
     .info .name-and-stack h2 {
