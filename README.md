@@ -1,9 +1,8 @@
-# VCard project
+# React + Vite
 
-This is a virtual business card project build with HTML and CSS.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-I used CSS positioning and CSS Flex.
+Currently, two official plugins are available:
 
-This is the link to the web page -> [Vcard](https://yannick2019.github.io/VCard/).
-
-![GIF empty VCard](https://static.boredpanda.com/blog/wp-content/uploads/2017/09/blank-card-02-59af053603afe__880.gif)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

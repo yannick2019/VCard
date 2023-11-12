@@ -1,0 +1,13 @@
+#root {
+  margin: 0 auto;
+  padding: 0;
+  align-content: center;
+  display: flex;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+@media screen and (max-width: 810px){
+  #root {
+    flex-direction: column;
+  }
+}
