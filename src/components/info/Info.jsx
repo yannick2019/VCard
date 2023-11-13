@@ -1,5 +1,7 @@
 import './Info.css'
 import Network from '../Network/Network.jsx'
+import { BsFillTelephoneFill } from "react-icons/bs"
+import { SiGmail } from "react-icons/si"
 
 
 export default function Info() {
@@ -18,8 +20,8 @@ export default function Info() {
         </p>
       </div>
       <div className="contact">
-        <p>0465 62 96 52</p>
-        <p>cleps2012@gmail.com</p>
+        <p><BsFillTelephoneFill /> &nbsp;0465 62 96 52</p>
+        <p><SiGmail /> &nbsp;cleps2012@gmail.com</p>
       </div>
       <Network />
     </div>
