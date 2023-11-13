@@ -1,9 +1,21 @@
-# VCard project
+# Virtual card project
 
-This is a virtual business card project build with HTML and CSS.
+This is a virtual business card project developed with React.
 
-I used CSS positioning and CSS Flex.
+## Preview
 
-This is the link to the web page -> [Vcard](https://yannick2019.github.io/VCard/).
+![screen shot](./src/assets/images/screen-shot.jpeg)
 
-![GIF empty VCard](https://static.boredpanda.com/blog/wp-content/uploads/2017/09/blank-card-02-59af053603afe__880.gif)
+## See it live
+
+Click [here](https://yannick2019.github.io/VCard/) to see live version.
+
+## Tech used
+- HTML/CSS
+- JavaScript
+- React
+- Vite 
+
+## Copyright
+
+2023
